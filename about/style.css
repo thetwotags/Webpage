@@ -1,0 +1,38 @@
+/*html{
+    background-color: black;
+}
+.container *{
+    border: 1px solid   red;
+    margin: 5px;
+    background-color: beige;
+}/*This is for viewing the flexboxes */
+header{
+    display: flex;
+    text-align: center;
+}
+header .header_image{
+    height: 20rem;
+    width: auto;
+    border-radius: 3rem;
+}
+
+a:link {
+    color:rgb(0, 37, 80);
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color:rgb(157, 199, 247);
+    background-color: transparent;
+    text-decoration: none;
+} 
+a:hover {
+    color:rgb(43, 69, 99);
+    background-color: transparent;
+    font-weight: bold;
+}  
+a:active {
+    color:rgb(43, 69, 99);
+    background-color: transparent;
+    font-weight: lighter;
+}

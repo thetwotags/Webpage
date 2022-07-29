@@ -1,0 +1,11 @@
+
+.container {
+    text-align: center;
+    height: 100%;
+    margin: auto;
+    width: 50rem ;
+}
+.container *{
+    border: 0.1rem solid blue;
+    margin: 2px;
+}
